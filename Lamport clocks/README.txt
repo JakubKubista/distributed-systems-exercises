@@ -1,7 +1,7 @@
 Author: Jakub Kubista
 Course: Distributed Systems
-Project: Big Exercises 2
-Name: A Tale of Cats and a Mouse
+Project: Big Exercises 1
+Name: Lamport clocks
 
 Basically a server thread who listen on its port a client thread sends  randomly 
 messages to other known servers
